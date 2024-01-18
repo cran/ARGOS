@@ -1,7 +1,7 @@
-78e1e1e68ecdcd2220a3b416e6a5461a *DESCRIPTION
+a7db73d15c09eb1d386437e46e961bc7 *DESCRIPTION
 d5f4bcc1f8e8089b202fc11f60a9052a *NAMESPACE
-6cda5d3eccec2b67084fad77744e611f *R/argos_files.R
-99e3704aa1a928abdc839c5d75a48140 *README.md
+325feff5f93c6c52e404d2ff0e95d550 *R/argos_files.R
+24bb5dd24c248414554dc314150b5932 *README.md
 1761e647d23c2edefab63da4c6a4068c *man/alasso.Rd
 9a50af4d0504a7390eb2496c4e7c3d43 *man/argos.Rd
 2e30ed533557e89d55bae145e57c516b *man/build_design_matrix.Rd

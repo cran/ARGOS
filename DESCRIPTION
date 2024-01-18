@@ -1,7 +1,7 @@
 Package: ARGOS
 Type: Package
 Title: Automatic Regression for Governing Equations (ARGOS)
-Version: 0.1.0
+Version: 0.1.1
 Authors@R: 
   c(person(given = "Kevin",
            family = "Egan",
@@ -33,10 +33,10 @@ Contact: Please report bugs and other issues to
 Encoding: UTF-8
 RoxygenNote: 7.2.3
 NeedsCompilation: no
-Packaged: 2023-12-20 22:41:27 UTC; kevinegan
+Packaged: 2024-01-18 15:30:03 UTC; kevinegan
 Author: Kevin Egan [aut, cre],
   Weizhen Li [aut],
   Rui Carvalho [aut],
   Yuzheng Zhang [aut]
 Repository: CRAN
-Date/Publication: 2023-12-21 17:00:12 UTC
+Date/Publication: 2024-01-18 16:00:02 UTC
